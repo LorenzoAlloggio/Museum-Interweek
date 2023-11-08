@@ -8,6 +8,12 @@ body{
 
 #introText{
     color: #000000;
+    margin-left: -83px;
+}
+
+#introText2{
+    color: #000000;
+    margin-left: -10px;
 }
 
 .highlight{
@@ -18,46 +24,37 @@ body{
 #introContainer{
     width: 470px;
     float: left;
-    margin: 0px 0px 0px 37px;
+    margin: 0px 0px 0px 420px;
+}
+
+#introContainer2{
+    color: #000000;
+    margin: -531px 20px 0px 922px;
+    float: right;
+}
+
+#introContainer3{
+    color: #000000;
+    margin: -531px 20px 0px 868px;
+    float: right;
 }
 
 #introPicture{
     float: left;
-    margin: 0px 0px 0px 80px;
+    height: 800px;
+    width: 800px;
+    margin: 0px 0px 0px 170px;
+}
+
+#introPicture2{
+    float: left;
+    height: 800px;
+    width: 800px;
+    margin: 0px 0px 20px 20px;
 }
 
 .reset{
     clear: both;
-}
-
-#hobbyContainer{
-    width: 410px;
-    float: left;
-    margin: 44px 0px 81px 80px;
-    height: 151px;
-}
-
-#hobbyContainer h2{
-margin: 0px;
-}
-
-#heroshot{
-    float: left;
-    margin: 8px 0px 0px 102px;
-}
-
-#seasonIslands{
-    float: left;
-    margin: 0px 0px 0px 68px;
-
-}
-
-.socialThumb{
-    float: left;
-    width: 56px;
-    height: 56px;
-    background-color: #ffffff;
-    margin: 0px 0px 0px 18px;
 }
 
 #mainContainer{
@@ -90,8 +87,4 @@ margin: 0px;
 #navigation{
     height: 22px;
     margin:0px 0px 10px 0px;
-}
-
-#socialMediaPage{
-    background-color: #cccccc;
 }
